@@ -6,7 +6,7 @@ Course: Software Development 1
 
 CRN: 31032
 
-This project is a nodel of a pizza ordering menu where the user can select crust type, topping type, and quantity of the pizza
+This project is a model of a pizza ordering menu where the user can select crust type, topping type, and quantity of the pizza
 and the program will display the price.
 
 The project demonstrates the use of classes, abstract classes, and objects. Each class works with another to calculate a total
